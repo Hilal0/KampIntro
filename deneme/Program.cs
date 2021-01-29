@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Odev6
+namespace deneme
 {
     class Program
     {
